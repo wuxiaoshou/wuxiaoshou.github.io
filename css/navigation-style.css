@@ -41,3 +41,6 @@ ul#navigation .navigationpatent a      {
 ul#navigation .navigationcontact a    {
     background-image: url(../images/navigation/contact.png);
 }
+ul#navigation .navigationnote a    {
+    background-image: url(../images/navigation/note.png);
+}
