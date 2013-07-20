@@ -1,7 +1,7 @@
 /* -------------------------------------------------- */
 
 ul.note { 
-    width: 970px; 
+    width: 100%; 
     margin: 10px auto 30px auto;
     overflow:hidden;
     padding:3em;
