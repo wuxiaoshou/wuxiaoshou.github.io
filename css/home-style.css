@@ -217,6 +217,7 @@
 	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
 	font-size: 70px;
 	letter-spacing: 7px;
+	background: rgba(104,24,194,0.9);
 	-webkit-transition: opacity 0.8s ease-in-out, -webkit-transform 0.8s ease-in-out;
 	-moz-transition: opacity 0.8s ease-in-out, -moz-transform 0.8s ease-in-out;
 	-o-transition: opacity 0.8s ease-in-out, -o-transform 0.8s ease-in-out;
