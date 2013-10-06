@@ -100,19 +100,19 @@
 }
 .cr-container input.cr-selector-img-1:checked ~ .cr-bgimg,
 .cr-bgimg div span:nth-child(1){
-	background-image: url(../images/home/1.jpg) no-repeat;
+	background-image: url(../images/home/1.jpg);
 }
 .cr-container input.cr-selector-img-2:checked ~ .cr-bgimg,
 .cr-bgimg div span:nth-child(2){
-	background-image: url(../images/home/2.jpg) no-repeat;
+	background-image: url(../images/home/2.jpg);
 }
 .cr-container input.cr-selector-img-3:checked ~ .cr-bgimg,
 .cr-bgimg div span:nth-child(3){
-	background-image: url(../images/home/3.jpg) no-repeat;
+	background-image: url(../images/home/3.jpg);
 }
 .cr-container input.cr-selector-img-4:checked ~ .cr-bgimg,
 .cr-bgimg div span:nth-child(4){
-	background-image: url(../images/home/4.jpg) no-repeat;
+	background-image: url(../images/home/4.jpg);
 }
 .cr-bgimg div:nth-child(1) span{
 	background-position: 0px 0px;
@@ -213,8 +213,7 @@
 	top: 50%;
 }
 .cr-titles h3 span:nth-child(1){
-color: #7cbcd6;
-	background: rgba(104,24,194,0.9);
+	color: #7cbcd6;
 	left: 0px;
 	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
 	font-size: 70px;
