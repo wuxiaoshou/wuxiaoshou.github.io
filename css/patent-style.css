@@ -8,6 +8,7 @@
     width: 20%;
     height: 30px;
     cursor: pointer;
+	background: #345678;
     color: #abc;
     text-shadow: 1px 1px 1px rgba(abc,abc,abc,0.8);
     line-height: 33px;
